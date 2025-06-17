@@ -1,6 +1,6 @@
 public class Switchcase {
     public static void main(String[] args) {
-        String name = "Saaili";
+        String name = "Anay";
         switch (name) {
             case "Anay":
                 System.out.println("Hello, Anay!");
