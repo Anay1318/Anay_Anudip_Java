@@ -2,14 +2,14 @@ public class Switchcase {
     public static void main(String[] args) {
         String name = "Saaili";
         switch (name) {
-            case "Saaili":
-                System.out.println("Hello, Saaili!");
+            case "Anay":
+                System.out.println("Hello, Anay!");
                 break;
             case "Harsh":
-                System.out.println("Hi, Harsh!");
+                System.out.println("Hi, Astra!");
                 break;
             case "Arjun":
-                System.out.println("Hey, Arjun!");
+                System.out.println("Hey, Orion!");
                 break;
             default:
                 System.out.println("Name not found.");
